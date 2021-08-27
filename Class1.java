@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Tajuddin Mwijage
  */
 
 public class Class1 {
